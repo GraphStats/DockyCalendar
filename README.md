@@ -47,5 +47,3 @@ Les contributions sont les bienvenues 🚀
 
 Développé par **GraphStats**
 Si le projet t’est utile, une ⭐ sur le repo est toujours appréciée
-
-dis-moi 🔥
