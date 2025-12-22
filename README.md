@@ -15,7 +15,6 @@ Idéal pour une utilisation personnelle ou comme base pour une application plus 
 
 ---
 
-
 ## 🔗 Synchronisation Google Calendar
 
 DockyCalendar s’appuie sur l’API officielle de **Google Calendar** pour :
