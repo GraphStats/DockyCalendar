@@ -1,8 +1,3 @@
-ok parfait 😎
-voici une **version plus pro**, wording clean, mais **les emojis restent** pour le style 👌
-
----
-
 # 📆 DockyCalendar
 
 **DockyCalendar** est un calendrier moderne et élégant, conçu pour offrir une expérience fluide tout en assurant une **synchronisation fiable avec Google Calendar**.
